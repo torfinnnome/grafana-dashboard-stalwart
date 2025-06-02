@@ -1,3 +1,4 @@
 This is a Grafana dashboard for the [Stalwart mail server](https://stalw.art), from a Prometheus data source.
 
-![Screenshot](sh0t-0.png)
+![Screenshot #1](sh0t1.png)
+![Screenshot #2](sh0t2.png)
